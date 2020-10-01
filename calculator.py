@@ -27,5 +27,5 @@ elif option==4:
 else:
     print("wrong selection. check ur options")
 
-print("CALCULATOR IS HAPPY :-D")
+print("CALCULATOR IS HAPPY NOW :-D")
 print ("edited")
